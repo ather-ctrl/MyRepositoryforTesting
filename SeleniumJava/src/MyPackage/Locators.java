@@ -13,6 +13,7 @@ public class Locators {
 		 driver = new ChromeDriver(); // ClassName obj = new ClassName();
 		 driver.get("https://demoqa.com/select-menu");	 
 		 
+		 //
 		 //WebElement e = driver.findElement(By.xpath("//div[text()='Practice Form']"));
 		 //e.clear();  //basic element operations
 		 //e.click();
