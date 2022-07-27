@@ -15,6 +15,11 @@ public class BasicBrowserOperations {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
 		System.out.println(driver.getPageSource());
+		System.out.println(driver.getTitle());
+		System.out.println(driver.getCurrentUrl());
+		System.out.println(driver.getPageSource());
+		
+		
 		driver.quit();
 	}
 
